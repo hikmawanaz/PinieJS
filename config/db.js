@@ -10,3 +10,6 @@ const sequelize = new Sequelize('piniejs', 'root', '', {
     idle: 10000
   }
 });
+
+
+module.exports = sequelize;
