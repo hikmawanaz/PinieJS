@@ -1,0 +1,25 @@
+{
+  "name": "piniejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.23.0",
+    "mongoose": "^5.4.2",
+    "mysql2": "^1.6.4",
+    "node-gcm": "^1.0.2",
+    "npm-check-updates": "^2.15.0",
+    "sequelize": "^4.42.0",
+    "swagger-ui-express": "^4.0.2"
+  }
+}
